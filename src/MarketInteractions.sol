@@ -12,6 +12,8 @@ contract MarketInteractions {
     IPoolAddressesProvider public immutable ADDRESSES_PROVIDER;
     IPool public immutable POOL;
 
+
+
     address private immutable linkAddress =
         0x514910771AF9Ca656af840dff83E8264EcF986CA;
     IERC20 private link;
