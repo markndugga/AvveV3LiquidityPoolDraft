@@ -3,4 +3,6 @@ My first web3 project! very simple contract but it shows my understanding of liq
 Follow me on my journey to become a web3 developer!!
 
 Explaination:
-This is a simple liquidity pool contract where users can supply and remove liquidity.
+This is a simple liquidity pool contract where users can supply, remove and withdraw liquidity.
+
+
